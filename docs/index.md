@@ -20,7 +20,7 @@ s
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.98 Major GPA
-- Full academic scholarship with 3.9 GPA
+- Full academic scholarship with 3.98 GPA
 
 ## Related Experience
 

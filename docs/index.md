@@ -16,8 +16,6 @@ Student at Brigham Young University - Idaho
 
 ## Education
 
-- Full academic scholarship with 4.0 GPA
-
 `Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
@@ -28,7 +26,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Volunteer
 
-`September 2021 - April 2022`
+`September 2022 - April 2023`
 __Heber J Grant Mentoring__, Rexburg , ID
 
 - Used requires strong communication skills to convey complex ideas, provide guidance, and offer constructive feedback.
@@ -38,7 +36,6 @@ __Heber J Grant Mentoring__, Rexburg , ID
 
 
 
-## Service and Work History
 
 
 

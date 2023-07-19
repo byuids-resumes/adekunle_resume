@@ -15,7 +15,7 @@ Student at Brigham Young University - Idaho
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
-s
+
 `Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
